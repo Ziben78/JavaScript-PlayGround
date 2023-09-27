@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+/* tamanho da imagem */
+img {
+    width:250px;
+    cursor: pointer; /* o cursor muda para um ponteiro ao passar sobre a imagem */
+}
